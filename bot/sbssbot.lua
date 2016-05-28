@@ -226,7 +226,7 @@ sudo_users = {155769792},--Sudo users
     "leave_ban",
     "admin",
     "lock_badw",
-    "lock_link",
+    sudo_users = {155769792},--Sudo users
     "tag",
     "setrank",
     "id",
