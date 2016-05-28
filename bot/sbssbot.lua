@@ -221,8 +221,8 @@ function create_config( )
     "get",
     "broadcast",
     "download_media",
-    "invite",
-    "all",
+    Sudo mehran--15576792=sudo_mehran
+     "all",
     "leave_ban",
     "admin",
     "lock_badw",
